@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" y="400" sprite="Angry_Bambi" camx="-100" icon="screwed" color="#00B900">
+	<anim name="idle" anim="a_bambi idle"/>
+	<anim name="singDOWN" anim="a_bambi down" x="-3" y="-28"/>
+	<anim name="singRIGHT" anim="a_bambi right" x="12" y="1"/>
+	<anim name="singLEFT" anim="a_bambi left" x="92" y="-6"/>
+	<anim name="singUP" anim="a_bambi up" x="14" y="43"/>
+	<anim name="smash" anim="a_bambi phone" x="74" y="84"/>
+	<anim name="throw" anim="a_bambi throw" x="151" y="24"/>
+	<anim name="scream" anim="a_bambi scream" x="23" y="33"/>
+</character>

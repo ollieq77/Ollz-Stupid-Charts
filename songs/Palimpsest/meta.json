@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "bambi",
+	"difficulties": [
+		"normal"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Palimpsest",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 179
+}

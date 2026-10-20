@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" y="400" camx="-100" color="#00B900">
+	<anim name="idle" anim="bambi idle"/>
+	<anim name="singDOWN" anim="bambi down" x="16" y="-32"/>
+	<anim name="singRIGHT" anim="bambi right" x="-10" y="5"/>
+	<anim name="singLEFT" anim="bambi left" x="68" y="1"/>
+	<anim name="singUP" anim="bambi up" x="52" y="31"/>
+	<anim name="die end" anim="die end" x="32" y="60"/>
+	<anim name="die loop" anim="die loop" x="33" y="-2"/>
+	<anim name="bambi die" anim="bambi die" x="76" y="31"/>
+	<anim name="look" anim="bambi hey" x="1" y="7"/>
+	<anim name="singDOWNmiss" anim="miss down" x="26" y="1"/>
+	<anim name="singLEFTmiss" anim="miss left" x="67" y="14"/>
+	<anim name="singUPmiss" anim="miss up" x="66" y="33"/>
+	<anim name="fucking idiot" anim="bambi idiot"/>
+	<anim name="smash" anim="bambi phone" x="100" y="82"/>
+	<anim name="singRIGHTmiss" anim="miss right" x="9" y="13"/>
+	<anim name="throw" anim="bambi throw" x="41" y="21"/>
+	<anim name="singLEFT-alt" anim="bambi alt left" x="25" y="4"/>
+	<anim name="singUP-alt" anim="bambi alt up" x="49" y="40"/>
+	<anim name="singRIGHT-alt" anim="bambi alt right" x="21" y="9"/>
+</character>

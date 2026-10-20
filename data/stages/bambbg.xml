@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="bambbg" folder="stages/bambbg/" zoom="0.8">
+	<sprite name="theBg" sprite="sky" x="-680" y="-130" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="grasshill" sprite="gm_flatgrass" x="450" y="95" scale="0.3" scalex="0.32" scaley="0.3" scrollx="0.3" scrolly="0.3" skewx="0" skewy="0"/>
+	<sprite name="hills" sprite="orangey hills" x="-380" y="120" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="farm" sprite="funfarmhouse" x="-20" y="160" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="ground" sprite="grass lands" x="-680" y="550" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="corn1" sprite="CornFence" x="-440" y="275" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="corn2" sprite="CornFence2" x="1080" y="275" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="thecornbag" sprite="cornbag" x="1180" y="605" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<sprite name="sign" sprite="Sign" x="-40" y="415" scalex="1" scaley="1" skewx="0" skewy="0"/>
+	<girlfriend/>
+	<dad x="8" y="104"/>
+	<boyfriend x="832" y="100"/>
+</stage>
